@@ -10,6 +10,6 @@ A highly optimized 3D rendering engine built completely from scratch in Go, outp
 
 ## Installation & Running
 ```bash
-git clone [https://github.com/DagerFGM/spinning-cube.git](https://github.com/DagerFGM/spinning-cube.git)
+git clone https://github.com/DagerFGM/spinning-cube.git
 cd spinning-cube
 go run ./cmd
